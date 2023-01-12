@@ -1,3 +1,6 @@
 esta es la historia de yo
 
-hola, como estas
+hola, como estas? 
+
+Estoy probando git, para ver sus diferentes versiones
+#probandocomentario
