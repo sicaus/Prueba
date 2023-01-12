@@ -1,1 +1,6 @@
-Empezamos otra nueva prueba, esta ocasión edite en Vim para variar
+Empezamos otra nueva prueba, esta ocasión edite en Vim para variar.
+#pruebo el modo comentarios del editor de Vim
+
+
+
+Vim parece ser un editor de texto interesante.
