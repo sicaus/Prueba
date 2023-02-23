@@ -3,4 +3,6 @@ este es un repaso del curso de git hub.
 Freddy tiene 33 años y nacio en Colombia,
 viviendo en todo el mundo
 
-Hoy hablaremos de su histori
+Hoy hablaremos de su historia
+
+En camara parece alto pero la verdad no es tan alto.
