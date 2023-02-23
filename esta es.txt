@@ -3,6 +3,12 @@ esta es la historia de yo
 hola, como estas? 
 
 Estoy probando git, para ver sus diferentes versiones
+<<<<<<< HEAD
 #probandocomentario 
 
 Otro cambio de prueba
+=======
+#probandocomentario
+
+cabecera
+>>>>>>> cabecera
