@@ -9,3 +9,5 @@ Platzi nunca pares de aprender,nunca pares, vales mil
 
 En camara parece alto pero la verdad no es tan alto. Antes era más chevere
 
+probando enviar información a git hub ya usando la llave publica
+
